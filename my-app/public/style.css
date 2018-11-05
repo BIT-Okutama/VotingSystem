@@ -1,0 +1,57 @@
+header {
+		display: block;
+	}
+	.navColor {
+		background-color: #212121 ;
+  }
+	.navButtonText {
+		color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+  	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  	font-size: 20px;
+	}
+
+img {
+		width: 100%;
+  	height: 100%;
+	}
+.logo {
+		width: 45%;
+  	height: 45%;
+}
+
+h1 {
+		color: #ff5722;
+		margin-bottom: 10px;
+		font-family: 'Bitter', sans-serif;;
+	}
+
+p {
+  	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	}
+	.whiteText {
+		margin-left: 80px;
+		color: white;
+	}
+
+div {}
+	.body {
+		position: relative;
+    margin-left: 80px;
+		margin-right: 80px;
+		margin-bottom: 40px;
+	}
+	.forms {
+		margin-left: 200px;
+    margin-right: 200px;
+	}
+
+	@font-face {
+		font-family: 'Bitter';
+		src: url('Bitter.otf'); 
+		src: 
+			local('Bitter'),
+			url('fonts/Bitter.otf') 
+			format('opentype');
+	}
